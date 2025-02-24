@@ -1,4 +1,4 @@
-## 0.0.2
+## 0.0.3
 
 * Initial release of the apps_utils Flutter plugin
 * Core functionality implemented:
