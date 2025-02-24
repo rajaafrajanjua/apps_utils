@@ -1,6 +1,6 @@
 name: apps_utils
 description: "A Flutter plugin for Android device application management, providing functionality to list installed apps, launch system applications, and manage app settings."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/JohnOyekanmi/apps_utils
 
 environment:
